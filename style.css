@@ -72,11 +72,12 @@
 }
 
 .operator img {
-    width: 50%;
+    width: 30%;
 }
 
 .operator-name {
-    font-size: 20px;
+    font-size: 15px;
+    margin-top: 5px;
 }
 
 
