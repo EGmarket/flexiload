@@ -1,3 +1,7 @@
+body a {
+    text-decoration: none;
+}
+
 .first-sec {
     background-color: azure;
     height: 100%;

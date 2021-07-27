@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body a {
+    text-decoration: none;
+}
+
 .accounts {
     margin: 20px;
     display: grid;
